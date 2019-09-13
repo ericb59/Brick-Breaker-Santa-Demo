@@ -1,7 +1,3 @@
-# Brick Breaker Santa Demo 
- MSX2 Fusion-C Game Demo
-
-
 Brick Breaker - Santa Demo (2018) MSX2
 
 is a little game demo made to demonstrate the possibilities of the FUSION-C library.
@@ -21,3 +17,7 @@ You are free to :
 Share : Copy and redistribute the material in any medium or format
 Adapt : remix, transform, and build upon the material for any purpose, even commercially.
 The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Eric Boez (c) 2018
+to contact me send an email to ericb59@gmail.com
+
